@@ -226,6 +226,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
+- [x] 完成下載
+
 </details>
 
 ## Don't feel you aren't smart enough
