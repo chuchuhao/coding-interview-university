@@ -1,3 +1,5 @@
+Tried to update my own version [here](https://www.notion.so/traderbagel/Coding-University-b813ddbd20954fbd9bdc74d94925e615)
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
@@ -1487,6 +1489,7 @@ You're never really done.
     - sort
     - tr
     - uniq
+    - tmux
     - [strace](https://en.wikipedia.org/wiki/Strace)
     - [tcpdump](https://danielmiessler.com/study/tcpdump/)
 
